@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonBottom">
+        <item name="android:background">@drawable/button_bot</item>
+    </style>
+    <style name="ButtonTop">
+        <item name="android:background">@drawable/button_top</item>
+    </style>
+    <style name="ButtonCenter">
+        <item name="android:background">@drawable/button_center</item>
+    </style>
+</resources>

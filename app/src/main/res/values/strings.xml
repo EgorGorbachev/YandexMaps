@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yandex_Maps</string>
+
+    <string name="yandex_maps_api_key">e4750f0e-2dca-47f9-9838-3fa2809de5fa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unknown_error_message">Unknown error</string>
+    <string name="remote_error_message">Remote server error</string>
+    <string name="network_error_message">Network error</string>
+</resources>
