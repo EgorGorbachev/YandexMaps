@@ -31,8 +31,6 @@ class MyViewModel(
 		} else {
 			"This place have incorrect address"
 		}
-		
-		
 	}
 	
 	fun getVehicleType(transport: Transport, knownVehicleTypes: HashSet<String>): String? {
